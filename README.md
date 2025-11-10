@@ -86,8 +86,7 @@ En la barra de busqueda escribe ">Git: Clone"
 
 Pega esta URL:
 
-https://github.com/JorgeJaramillo/sophyfarm-api.git
-
+https://github.com/falvarado777/SophyFarm-Performance-Benchmark.git
 
 Elige una carpeta donde guardar el proyecto.
 
