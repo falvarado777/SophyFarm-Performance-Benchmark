@@ -59,7 +59,7 @@ Maven for Java	(de Microsoft)
 REST Client	(de Huachao Mao)
 PostgreSQL (de Chris Kolkman) 
 
-2. Clonar repositorio en Visual Studio Code
+2. Instalar Git
 
 Instalar Git en Windows en el sitio oficial: https://git-scm.com/download/win
 
@@ -78,7 +78,7 @@ Abre una nueva ventana de tu consola de comandos y escribe: git --version
 
 Debe mostrar algo como: git version 2.51.1.windows.1
 
-3. Configurar aplicación
+3. Clonar el proyecto
 
 Abre VSCode.
 
