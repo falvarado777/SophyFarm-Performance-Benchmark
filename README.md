@@ -76,7 +76,7 @@ Deja las opciones por defecto, excepto estas dos (márcalas):
 Finaliza la instalación.
 Abre una nueva ventana de tu consola de comandos y escribe: git --version
 
-Debe mostrar algo como: git version 2.45.1.windows.1
+Debe mostrar algo como: git version 2.51.1.windows.1
 
 3. Configurar aplicación
 
