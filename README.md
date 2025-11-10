@@ -59,39 +59,40 @@ Maven for Java	(de Microsoft)
 REST Client	(de Huachao Mao)
 PostgreSQL (de Chris Kolkman) 
 
-2. Crear el proyecto Spring Boot
+2. Clonar repositorio en Visual Studio Code
 
-2.1 Crear proyecto en Spring Initializr
+Instalar Git en Windows en el sitio oficial: https://git-scm.com/download/win
 
-En VS Code, abre una carpeta vacía llamada sophyfarm-api
-Abre la paleta de comandos (Ctrl+Shift+P)
+Esto descargará automáticamente el instalador Git-2.xx.x-64-bit.exe.
 
-Busca: Spring Initializr: Create Maven Project
+Ejecuta el instalador.
 
-Selecciona:
+Deja las opciones por defecto, excepto estas dos (márcalas):
 
-Spring Boot version: 3.3.x
+“Add Git Bash to PATH”
 
-Group Id: co.edu.unbosque
+“Git from the command line and also from 3rd-party software”
 
-Artifact Id: sophyfarm
+Finaliza la instalación.
+Abre una nueva ventana de tu consola de comandos y escribe: git --version
 
-Name: SophyFarm
-
-Dependencies:
-
-Spring Web
-
-Spring Data JPA
-
-PostgreSQL Driver
-
-Springdoc OpenAPI UI
-
-Esto generará un proyecto Maven con toda la estructura base.
+Debe mostrar algo como: git version 2.45.1.windows.1
 
 3. Configurar aplicación
-Modificar src/main/resources/application.properties para que coincida con tus datos de PostgreSQL
+
+Abre VSCode.
+
+En la barra de busqueda escribe ">Git: Clone" 
+
+Pega esta URL:
+
+https://github.com/JorgeJaramillo/sophyfarm-api.git
+
+
+Elige una carpeta donde guardar el proyecto.
+
+Cuando termine, haz clic en “Open” para abrirlo.
+
 
 
 
